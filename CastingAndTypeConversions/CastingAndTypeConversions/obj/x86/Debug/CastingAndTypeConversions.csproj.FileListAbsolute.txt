@@ -1,0 +1,5 @@
+/home/alex/Projects/CastingAndTypeConversions/CastingAndTypeConversions/bin/Debug/CastingAndTypeConversions.exe
+/home/alex/Projects/CastingAndTypeConversions/CastingAndTypeConversions/bin/Debug/CastingAndTypeConversions.pdb
+/home/alex/Projects/CastingAndTypeConversions/CastingAndTypeConversions/obj/x86/Debug/CastingAndTypeConversions.csprojAssemblyReference.cache
+/home/alex/Projects/CastingAndTypeConversions/CastingAndTypeConversions/obj/x86/Debug/CastingAndTypeConversions.exe
+/home/alex/Projects/CastingAndTypeConversions/CastingAndTypeConversions/obj/x86/Debug/CastingAndTypeConversions.pdb
